@@ -96,7 +96,7 @@ ul {
 /* Hero Section */
 .hero {
     height: 80vh;
-    background-image: linear-gradient(var(--hero-overlay), var(--hero-overlay)), url('assets/hero.png');
+    background-image: linear-gradient(var(--hero-overlay), var(--hero-overlay)), url('hero.png');
     background-size: cover;
     background-position: center;
     display: flex;
